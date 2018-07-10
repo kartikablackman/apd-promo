@@ -1,5 +1,5 @@
 ---
-label: Title
+label: Basic
 hide_body: false
 is_partial: false
 fields:
@@ -11,6 +11,10 @@ fields:
   name: image
   label: image
   description: image
+- type: textarea
+  name: content
+  label: Content
+  description: Content
 pages:
 - content/kartika.html
 - content/yukti.md
