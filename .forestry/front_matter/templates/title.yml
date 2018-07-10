@@ -11,3 +11,5 @@ fields:
   name: image
   label: image
   description: image
+pages:
+- content/kartika.html
