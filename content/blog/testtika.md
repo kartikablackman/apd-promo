@@ -5,3 +5,5 @@ image = "/uploads/battle-board-game-challenge-209640.jpg"
 title = "Testtika"
 
 +++
+  
+Testing blog post![](/uploads/battle-board-game-challenge-209640.jpg)
