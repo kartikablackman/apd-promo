@@ -6,7 +6,6 @@ title = "Testtika"
 undefined = "2018-07-10T12:00:00+00:00"
 
 +++
-  
-![testitiks](/uploads/battle-board-game-challenge-209640.jpg "testtiks")
+![](/uploads/contact400.jpg)
 
 Testing Blog post
