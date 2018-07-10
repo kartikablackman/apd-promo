@@ -2,7 +2,7 @@
 categories = ["programming"]
 date = "2018-06-26T16:36:38.000+12:00"
 tags = ["go"]
-title = "Why on earth is CX in decline in Tika?"
+title = "Why on earth is CX in decline in Yukti?"
 
 +++
 ![Why on earth is CX in decline in 2018](/img/about.jpg)
