@@ -1,0 +1,47 @@
+<!-- footer Start -->
+<footer>
+  <div class="container">
+    <div class="footer-block">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="footer-manu">
+            <ul>
+              {{ range .Site.Menus.footer }}
+              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="footer-loc">
+             <i class="fa fa-map-marker"></i>Level 1, 4 Newton Road, Grey Lynn, Auckland New Zealand
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="footer-loc">
+             <i class="fa fa-envelope-o"></i>Email: hellonz@apdgroup.com
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="footer-loc">
+             <i class="fa fa-phone"></i>Phone: <a class="phone" href="tel:093606463">+64 9 360 6463</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="copy">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="copyright">
+            <p>Copyright &copy; Design &amp; Developed by APD NZ. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

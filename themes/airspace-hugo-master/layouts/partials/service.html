@@ -1,0 +1,80 @@
+{{ partial "global-header.html" .Site.Params.service }}
+<!-- Service Start -->
+<section id="service">
+  <div class="container">
+
+    <!-- Intro -->
+    <div class="row">
+      <div class="section-title">
+        <h2>Customer Experience Design</h2>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="service-block">
+          <p>We help clients analyse their current customer experience, and then help them workshop towards understanding how they can digitally transform those experiences to deliver .... better, more efficiently or innovatively.</p>
+          <ul>
+              <li>Personas</li>
+              <li>customer journey roadmaps</li>
+              <li>Service blueprinting</li>
+              <li>customer experience design and transformation roadmap</li>
+          </ul>
+          <p>With the evolution of technology from mobile to conversational user interfaces, consumers expect a lot more from the brand they interact with. Designing experiences that feel effortless and delightful help create better bonds with customers.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Intro -->
+    <div class="row">
+      <div class="section-title">
+        <h2>Customer and Data strategies</h2>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="service-block">
+          <p>We help organisations organise data so that they can understand and utilise it</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      {{ range .Site.Data.service.content }}
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          <h4>{{ .name }}</h4>
+          <p>{{ .text }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+
+    <!-- Intro -->
+    <div class="row">
+      <div class="section-title">
+        <h2>Programmatic & Performance Digital media</h2>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="service-block">
+          <p>The world of search engine marketing and performance media can be complex to navigate. Our SEM and Programmatic experts can help</p>
+          <ul>
+              <li>developing strategies with media partners</li>
+              <li>Implement mutli-message dynamic creative elements to drive targeted messaging using the DoubleClick stack</li>
+          </ul>
+          <p>Sometimes, it's hard to tell if you're getting a fair return for your digital media investments. We also offer a neutral audit of digital media performance and benchmarking to help marketers and technologists understand how to get more value from their investments.</p>
+        </div>
+      </div>
+    </div>
+
+
+
+  </div>
+</section>

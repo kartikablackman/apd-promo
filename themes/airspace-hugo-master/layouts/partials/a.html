@@ -1,0 +1,32 @@
+{{ partial "global-header.html" .Site.Data.work }}
+
+<!-- Service Start -->
+<section id="service">
+  <div class="container">
+
+    <!-- Intro -->
+    <div class="row">
+      <div class="section-title">
+        <h2>{{ .Site.Data.service.title }}</h2>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="row">
+      {{ range .Site.Data.service.content }}
+      <div class="col-md-12">
+        <div class="service-item">
+          <img src="{{ .icon }}"/>
+          <h4>{{ .name }}</h4>
+          <p>{{ .text }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+
+{{ if isset .Site.Data.work "call" }}
+  {{ partial "call-to-action.html" .Site.Data.work.call }}
+{{ end}}
