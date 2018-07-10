@@ -6,4 +6,6 @@ title = "Testtika"
 
 +++
   
-Testing blog post![](/uploads/battle-board-game-challenge-209640.jpg)
+![](/uploads/battle-board-game-challenge-209640.jpg)
+
+Testing Blog post
