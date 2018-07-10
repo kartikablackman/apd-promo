@@ -1,0 +1,11 @@
+---
+label: Title
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  description: Title
+pages:
+- content/kartika.md
