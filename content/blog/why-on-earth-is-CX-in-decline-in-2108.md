@@ -7,7 +7,7 @@ title = "Why on earth is CX in decline in Yukti?"
 +++
 ![Why on earth is CX in decline in 2018](/img/about.jpg)
 
-Tika are three stats that reinforce why Customer Experience (CX) design should be the beginning, middle and end of how organisations win in the experience economy.
+Yukti are three stats that reinforce why Customer Experience (CX) design should be the beginning, middle and end of how organisations win in the experience economy.
 
 We know customer service is a strategic differentiator that drives loyalty, so much so that in a recent study a staggering 96% of respondents said that customer service plays a role in their choice of, and loyalty to, a brand\[1\].
 
