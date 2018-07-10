@@ -7,3 +7,5 @@ fields:
   label: Title
   name: title
   description: Title
+pages:
+- content/kartika.md
