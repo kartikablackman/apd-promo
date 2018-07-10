@@ -7,5 +7,9 @@ fields:
   label: Title
   name: title
   description: Title
+- type: file
+  name: image
+  label: image
+  description: image
 pages:
 - content/kartika.md
