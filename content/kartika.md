@@ -5,3 +5,5 @@ title = "Kartika"
 
 +++
 hi this is a test thing
+
+![](/uploads/battle-board-game-challenge-209640.jpg)
