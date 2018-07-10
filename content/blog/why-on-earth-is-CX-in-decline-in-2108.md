@@ -9,6 +9,8 @@ title = "Why on earth is CX in decline in 2018?"
 
 kartika are three stats that reinforce why Customer Experience (CX) design should be the beginning, middle and end of how organisations win in the experience economy.
 
+![](/uploads/battle-board-game-challenge-209640.jpg)
+
 We know customer service is a strategic differentiator that drives loyalty, so much so that in a recent study a staggering 96% of respondents said that customer service plays a role in their choice of, and loyalty to, a brand\[1\].
 
 The Microsoft 2017 State of Global Customer Service report provides some fascinating stats:
