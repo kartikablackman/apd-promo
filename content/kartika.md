@@ -4,6 +4,6 @@ image = "/uploads/battle-board-game-challenge-209640-1.jpg"
 title = "Kartika"
 
 +++
-hi this is a test thing
+hi this is a test thing Ykti
 
-![](/uploads/battle-board-game-challenge-209640.jpg)
+![kartika](/uploads/battle-board-game-challenge-209640.jpg "kartika")
