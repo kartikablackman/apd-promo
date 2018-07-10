@@ -1,5 +1,4 @@
 +++
-id = "services"
-title = "Services"
-
+title = "Service"
+id = "service"
 +++

@@ -1,36 +1,25 @@
----
 enable: true
 title: Our Services
-subtitle: We Create Experiences And Grow Businessestiks.
+subtitle: >
+  We Create Experiences And Grow Businesses.
 content:
-- icon: "/img/icon-strategy.png"
-  name: CRM Strategy
-  text: 'We help clients design CRM programmes to manage customer lifecycles, triggered
-    communication and an optimised customer experience.
 
-'
-- icon: "/img/icon-design.png"
-  name: Data Strategy
-  text: 'Setup and streamlining of data capture, storage and lifecycle management.
-    Workshopping the setup and implementation of the business process and analytic
-    systems to understand customer behaviour and how it can be used to influence new
-    behaviours.
+  - icon: /img/icon-strategy.png
+    name: CRM Strategy
+    text: >
+      We help clients design CRM programmes to manage customer lifecycles, triggered communication and an optimised customer experience.
 
-'
-- icon: "/img/icon-technology.png"
-  name: Marketing Technology
-  text: 'Modern marketing relies heavily on data and technology. Our expertise helps
-    makes sense of marketing automation, digital media platforms and analytics tools.
-    We help marketers understand how to make more effective use of these technologies
-    to deliver on marketing objectives. Our team of technologist also partner with
-    IT teams to deliver and operate the end to end solution.
+  - icon: /img/icon-design.png
+    name: Data Strategy
+    text: >
+      Setup and streamlining of data capture, storage and lifecycle management. Workshopping the setup and implementation of the business process and analytic systems to understand customer behaviour and how it can be used to influence new behaviours.
 
-'
-- icon: "/img/icon-performancemedia.png"
-  name: Triggered Communication Programmes
-  text: 'We are expert in designing and optimising triggered communication programmes
-    for customer communication. We have helped many clients with the use of IBM Watson,
-    Salesforce and our own SmartMail Pro platform to deliver communication programmes
-    that are efficient and effective.
+  - icon: /img/icon-technology.png
+    name: Marketing Technology
+    text: >
+      Modern marketing relies heavily on data and technology. Our expertise helps makes sense of marketing automation, digital media platforms and analytics tools. We help marketers understand how to make more effective use of these technologies to deliver on marketing objectives. Our team of technologist also partner with IT teams to deliver and operate the end to end solution.
 
-'
+  - icon: /img/icon-performancemedia.png
+    name: Triggered Communication Programmes
+    text: >
+      We are expert in designing and optimising triggered communication programmes for customer communication. We have helped many clients with the use of IBM Watson, Salesforce and our own SmartMail Pro platform to deliver communication programmes that are efficient and effective.
