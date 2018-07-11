@@ -35,7 +35,7 @@ name = "About Us"
 url = "/work"
 weight = 2
 [params]
-dateFormat = "6 January 2006"
+dateFormat = "2006-01-06T00:00:00+00:00"
 home = "Home"
 [params.blog]
 enable = true
@@ -52,7 +52,7 @@ enable = true
 subtitle = "Don’t just take our word for it. Check out some of our latest work."
 title = "We’d Love To Hear From You"
 [params.contact.box]
-address = "Level 1, 4 Newton Road, Grey Lynn, Auckland New Zealand"
+address = "Level 1, 4 Newton Road, Grey Lynn, Auckland New Zealand Kartika"
 email = "Email: hellonz@apdgroup.com"
 phone = ""
 title = "Stop by for a visit"
