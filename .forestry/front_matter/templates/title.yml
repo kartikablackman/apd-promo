@@ -8,6 +8,10 @@ fields:
   name: title
   description: Title
 - type: datetime
+  config:
+    display_utc: true
+  label: Time
+  name: time
 - type: file
   name: image
   label: image
