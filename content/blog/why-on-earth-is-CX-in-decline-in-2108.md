@@ -1,6 +1,6 @@
 +++
 categories = ["programming"]
-date = "2001-07-31T12:00:00+00:00"
+date = ""
 tags = ["go"]
 title = "Why on earth is CX in decline in 2018?"
 
