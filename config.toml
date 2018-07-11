@@ -65,7 +65,7 @@ subject = "Your Phone number"
 [params.contact.gmaps]
 title = "We Also Count in Google Maps"
 [params.feature]
-content = "Through the power of digital transformation and brand strategy, we redefine relationships with the digital and physical worlds to deliver experiences people love. With our strategy, technology and design experience, we make the complex simple and create new ways to engage your customers through personalised, seamless marketing journeys"
+content = "Through the power of digital transformation and brand strategy, we redefine relationships with the digital and physical worlds to deliver experiences people love. With our strategy, technology and design experience, we make the complex simple and create new ways to engage your customers through personalised, seamless marketing journeys tIKA"
 enable = true
 title = "We bring digital services and experiences to life"
 [params.feature.button]
