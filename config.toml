@@ -43,9 +43,9 @@ title = "Written By Our Own People. Enjoy!"
 [params.call]
 enable = true
 paragraph = ""
-title = "Through the power of digital transformation we deliver experiences people love"
+title = "Through the power of digital transformation we deliver experiences people love Tika"
 [params.call.button]
-text = "Get in touch"
+text = "Get in touch Tika"
 url = "/contact"
 [params.contact]
 enable = true
