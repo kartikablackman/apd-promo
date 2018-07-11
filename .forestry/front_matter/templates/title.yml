@@ -9,7 +9,9 @@ fields:
   description: Title
 - type: datetime
   config:
-    display_utc: true
+    display_utc: false
+    date_format: DD/MM/YYYY
+    time_format: h:mm A
   label: Time
   name: time
 - type: file
