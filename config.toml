@@ -17,11 +17,11 @@ weight = 1
 [[menu.header]]
 name = "Kartika"
 url = "/kartikanewpage"
-weight = 1
+weight = 2
 [[menu.header]]
 name = "Contact"
 url = "/contact"
-weight = 4
+weight = 5
 [[menu.header]]
 name = "Service"
 url = "/service"
@@ -29,11 +29,11 @@ weight = 1
 [[menu.header]]
 name = "Blog"
 url = "/blog"
-weight = 3
+weight = 4
 [[menu.header]]
 name = "About Us"
 url = "/work"
-weight = 2
+weight = 3
 [params]
 dateFormat = "2 January 2006"
 home = "Home"
