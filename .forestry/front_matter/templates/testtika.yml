@@ -11,5 +11,6 @@ fields:
 - type: text
   name: date
   label: date
+  description: date
 pages:
 - content/blog/test2.md
