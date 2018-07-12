@@ -14,5 +14,4 @@ fields:
   description: text
 pages:
 - content/test3.md
-- content/test4.md
 - content/blog/test2.md

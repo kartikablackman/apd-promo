@@ -11,3 +11,5 @@ fields:
   name: image_
   label: 'Image '
   description: put image here
+pages:
+- content/test4.md
