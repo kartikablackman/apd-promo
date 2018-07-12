@@ -5,4 +5,6 @@ image = "/uploads/DSCF3639.jpg"
 title = "Kartika"
 
 +++
+![](/uploads/APD_Black_HighRes.jpg)
+
 This is a test
