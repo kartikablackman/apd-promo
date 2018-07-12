@@ -1,73 +1,80 @@
+---
 enable: true
-title: We’ve Been Digital From The Very Beginning
-
+title: we’ve been digital from the very beginning Tika
 portfolio:
-  - category: Branding
-    url: "#"
-    image: "img/staff/simone.jpg"
-    name: Simone Iles
-    description: >
-      CEO
-  - category: Websites
-    url: "#"
-    image: "img/staff/joel.jpg"
-    name: Joel Frost
-    description: >
-      Head of Strategy
-  - category: Graphics
-    url: "#"
-    image: "img/staff/meelan.jpg"
-    name: Meelan Dobbs
-    description: >
-      Account Director & Performance Media Lead
-  - category: Design
-    url: "#"
-    image: "img/staff/will.jpg"
-    name: Will Reinecke
-    description: >
-      Finance Operations Manager
-  - category: Video
-    url: "#"
-    image: "img/staff/sergey.jpg"
-    name: Sergey Gurin
-    description: >
-      Application Architect
-  - category: Branding
-    url: "#"
-    image: "img/staff/tika.jpg"
-    name: Kartika Blackman
-    description: >
-      Digital Producer
-  - category: Websites
-    url: "#"
-    image: "img/staff/mervyn.jpg"
-    name: Mervyn Fernandes
-    description: >
-      Campaign Manager
-  - category: Graphics
-    url: "#"
-    image: "img/staff/vincent.jpg"
-    name: Vincent Ren
-    description: >
-      Designer
-  - category: Design
-    url: "#"
-    image: "img/staff/tara.jpg"
-    name: Tara Stead
-    description: >
-      Help Desk Support
+- category: Branding
+  url: "#"
+  image: img/staff/simone.jpg
+  name: Simone Iles
+  description: 'CEO
 
+'
+- category: Websites
+  url: "#"
+  image: img/staff/joel.jpg
+  name: Joel Frost Tiks
+  description: 'Head of Strategy
 
+'
+- category: Graphics
+  url: "#"
+  image: img/staff/meelan.jpg
+  name: Meelan Dobbs
+  description: 'Account Director & Performance Media Lead
+
+'
+- category: Design
+  url: "#"
+  image: img/staff/will.jpg
+  name: Will Reinecke
+  description: 'Finance Operations Manager
+
+'
+- category: Video
+  url: "#"
+  image: img/staff/sergey.jpg
+  name: Sergey Gurin
+  description: 'Application Architect
+
+'
+- category: Branding
+  url: "#"
+  image: img/staff/tika.jpg
+  name: Kartika Blackman
+  description: 'Digital Producer
+
+'
+- category: Websites
+  url: "#"
+  image: img/staff/mervyn.jpg
+  name: Mervyn Fernandes
+  description: 'Campaign Manager
+
+'
+- category: Graphics
+  url: "#"
+  image: img/staff/vincent.jpg
+  name: Vincent Ren
+  description: 'Designer
+
+'
+- category: Design
+  url: "#"
+  image: img/staff/tara.jpg
+  name: Tara Stead
+  description: 'Help Desk Support
+
+'
 clients:
-  - image: "img/Whitcoulls_onWhite.png"
-    url: "#"
-  - image: "img/FlightCentre_onWhite.png"
-    url: "#"
-  - image: "img/Gallagher_onWhite.png"
-    url: "#"
-  - image: "img/Giant_onWhite.png"
-    url: "#"
-  - image: "img/Mitre10_onWhite.png"
-    url: "#"
-  - image: "img/AMP_onWhite.png"
-    url: "#"
+- image: img/Whitcoulls_onWhite.png
+  url: "#"
+- image: img/FlightCentre_onWhite.png
+  url: "#"
+- image: img/Gallagher_onWhite.png
+  url: "#"
+- image: img/Giant_onWhite.png
+  url: "#"
+- image: img/Mitre10_onWhite.png
+  url: "#"
+- image: img/AMP_onWhite.png
+  url: "#"
