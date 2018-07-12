@@ -7,13 +7,8 @@ fields:
   label: Date
   name: date
   description: date
-- type: text
-  name: header
-  label: Header
-  description: put header here
-- type: file
-  name: image_
-  label: 'Image '
-  description: put image here
+  config:
+    date_format: DD
+    time_format: '0'
 pages:
 - content/test4.md
