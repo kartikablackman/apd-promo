@@ -1,0 +1,12 @@
+---
+label: Yukti
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  label: Date
+  name: date
+  description: date
+  config:
+    date_format: DD
+    time_format: '0'
