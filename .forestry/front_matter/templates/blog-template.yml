@@ -15,3 +15,7 @@ fields:
   name: author
   label: Author
   description: Author goes here
+- type: file
+  name: image
+  description: image goes here
+  label: Image
