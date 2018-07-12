@@ -9,9 +9,9 @@ fields:
   hidden: false
   default: ''
 - type: text
-  name: date
-  label: date
-  description: date
+  name: text
+  label: text
+  description: text
 pages:
 - content/test3.md
 - content/blog/test2.md
