@@ -1,7 +1,7 @@
 +++
 author = "Kartika"
 date = "2018-07-13T11:42:13+12:00"
-image = "/uploads/DSCF3639.jpg"
+image = "img/blog/APD_Black_HighRes.jpg"
 title = "Kartika"
 
 +++
