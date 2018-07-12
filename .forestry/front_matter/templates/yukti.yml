@@ -7,3 +7,7 @@ fields:
   name: header
   label: Header
   description: put header here
+- type: file
+  name: image_
+  label: 'Image '
+  description: put image here
