@@ -10,5 +10,3 @@ fields:
   config:
     date_format: DD
     time_format: '0'
-pages:
-- content/blog/k.md
