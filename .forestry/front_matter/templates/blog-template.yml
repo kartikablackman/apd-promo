@@ -11,3 +11,7 @@ fields:
   name: date
   label: Date
   description: add date here
+- type: text
+  name: author
+  label: Author
+  description: Author goes here
