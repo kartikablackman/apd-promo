@@ -3,6 +3,10 @@ label: Yukti
 hide_body: false
 is_partial: false
 fields:
+- type: datetime
+  label: Date
+  name: date
+  description: date
 - type: text
   name: header
   label: Header
