@@ -7,3 +7,5 @@ fields:
   name: title
   label: Title
   description: Add title here
+pages:
+- content/kartikanewpage.md
