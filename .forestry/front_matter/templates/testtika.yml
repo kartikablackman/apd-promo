@@ -13,4 +13,5 @@ fields:
   label: date
   description: date
 pages:
+- content/test3.md
 - content/blog/test2.md
