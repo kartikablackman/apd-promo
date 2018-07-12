@@ -6,3 +6,4 @@ image = "/uploads/APD_Black_HighRes.jpg"
 title = "Kartika"
 
 +++
+This is a test
