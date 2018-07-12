@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Asia Pacific Digital</title>
+    <link>http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/categories/</link>
+    <description>Recent content in Categories on Asia Pacific Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programming</title>
+      <link>http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/categories/programming/</link>
+      <pubDate>Tue, 26 Jun 2018 16:36:38 +1200</pubDate>
+      
+      <guid>http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

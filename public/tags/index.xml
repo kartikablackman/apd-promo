@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Asia Pacific Digital</title>
+    <link>http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/tags/</link>
+    <description>Recent content in Tags on Asia Pacific Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jun 2018 16:36:38 +1200</lastBuildDate>
+    
+	<atom:link href="http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go</title>
+      <link>http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/tags/go/</link>
+      <pubDate>Tue, 26 Jun 2018 16:36:38 +1200</pubDate>
+      
+      <guid>http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

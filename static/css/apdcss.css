@@ -28,7 +28,7 @@ p {
 }
 
 #slider .block p, h1, h1 + p, #contact-form .block button,
-.post-date,
+.post-date, .back-blog-btn,
 #contact-box .block h2  {
   font-family: 'Montserrat', sans-serif;
 }
@@ -49,6 +49,10 @@ p {
   font-size : 16px;
   line-height : 2;
   text-align : left;
+}
+
+.single-page {
+  padding : 20px 0;
 }
 
 #service .section-title {
@@ -207,6 +211,18 @@ a.phone {
   font-weight : 700;
 }
 
+.back-blog-btn {
+  text-decoration: uppercase;
+  font-size : 14px;
+  border : 2px solid #428bca;
+  padding: 8px 15px;
+}
+
+.back-blog-btn:hover {
+  background-color : #428bca;
+  color : #ffffff;
+}
+
 /* Call to action */
 
 #call-to-action {
@@ -246,6 +262,15 @@ a.btn.btn-view-works {
 }
 
 /* Blog */
+
+.post-area {
+  overflow:auto;
+}
+
+.post-area .image {
+  margin-bottom : 20px;
+}
+
 .post h3 {
   font-size : 19px;
   font-weight: 400;
@@ -257,6 +282,10 @@ a.btn.btn-view-works {
 
 .post #intro {
   padding : 20px;
+}
+
+#single-blog {
+  padding : 20px 0;
 }
 
 .navbar-brand img {
@@ -273,7 +302,7 @@ a.btn.btn-view-works {
   }
 
   .col-md-4:nth-child(3n+1){
-    clear: left;
+    /* clear: left; */
 }
 
 #portfolio-work .block .portfolio-contant ul li .position-center {
