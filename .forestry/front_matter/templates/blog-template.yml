@@ -7,3 +7,7 @@ fields:
   name: title
   label: Title
   description: Add title here
+- type: datetime
+  name: date
+  label: Date
+  description: add date here
