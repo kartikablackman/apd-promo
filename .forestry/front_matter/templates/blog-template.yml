@@ -1,0 +1,9 @@
+---
+label: Blog Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Add title here
