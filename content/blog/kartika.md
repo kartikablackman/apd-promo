@@ -5,7 +5,6 @@ image = "uploads/DSCF3639.jpg"
 title = "Kartika"
 
 +++
-
-![](uploads/APD_Black_HighRes.jpg)
+![](uploads/DSCF3639.jpg)
 
 This is a test
