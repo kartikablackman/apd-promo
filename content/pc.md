@@ -4,3 +4,6 @@ draft = true
 title = "PC"
 
 +++
+PC'S PAGE
+
+![](uploads/APD_Black_HighRes.jpg)
