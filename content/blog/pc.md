@@ -7,4 +7,4 @@ title = "PC"
 +++
 this is a test blog
 
-![](static/uploads/APD_Black_HighRes.jpg)
+![](static/uploads/APD_Black_HighRes.jpg)[AINZ_WEBSITE_PRE-READING.pdf](uploads/AINZ_WEBSITE_PRE-READING.pdf "AINZ_WEBSITE_PRE-READING.pdf")
