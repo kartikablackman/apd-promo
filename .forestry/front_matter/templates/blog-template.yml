@@ -20,5 +20,5 @@ fields:
   description: image goes here
   label: Image
 pages:
-- content/blog/kartika.md
 - content/blog/pc.md
+- content/blog/kartika.md
