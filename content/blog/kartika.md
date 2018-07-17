@@ -9,4 +9,4 @@ title = "Kartika"
 
 # This is a test
 
-![](/uploads/AINZTimeline.jpg)
+![](uploads/DSCF3639.jpg)
