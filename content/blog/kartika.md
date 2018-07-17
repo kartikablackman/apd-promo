@@ -9,4 +9,4 @@ title = "Kartika"
 
 This is a test
 
-![](http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/uploads/test.jpg)![](http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/uploads/APD_Black_HighRes.jpg)
+![](http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/uploads/test.jpg)![](http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/uploads/test.jpg)![](http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/uploads/APD_Black_HighRes.jpg)
