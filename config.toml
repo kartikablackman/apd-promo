@@ -15,7 +15,7 @@ name = "About us"
 url = "/work"
 weight = 1
 [[menu.header]]
-name = "Kartika"
+name = "KartikaCloudfront"
 url = "/kartikanewpage"
 weight = 2
 [[menu.header]]
