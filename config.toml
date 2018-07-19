@@ -3,37 +3,37 @@ languageCode = "en-us"
 theme = "airspace-hugo-master"
 title = "Asia Pacific Digital"
 [[menu.footer]]
-name = "Blog"
-url = "/blog"
-weight = 3
+name = "About us"
+url = "/work"
+weight = 1
 [[menu.footer]]
 name = "Contact us"
 url = "/contact"
 weight = 2
 [[menu.footer]]
-name = "About us"
+name = "Blog"
+url = "/blog"
+weight = 3
+[[menu.header]]
+name = "About Us"
 url = "/work"
-weight = 1
-[[menu.header]]
-name = "KartikaCloudfront"
-url = "/kartikanewpage"
-weight = 2
-[[menu.header]]
-name = "Contact"
-url = "/contact"
-weight = 5
-[[menu.header]]
-name = "Service"
-url = "/service"
-weight = 1
+weight = 3
 [[menu.header]]
 name = "Blog"
 url = "/blog"
 weight = 4
 [[menu.header]]
-name = "About Us"
-url = "/work"
-weight = 3
+name = "Services"
+url = "/service"
+weight = 1
+[[menu.header]]
+name = "Contact"
+url = "/contact"
+weight = 5
+[[menu.header]]
+name = "KartikaCloudfront"
+url = "/kartikanewpage"
+weight = 2
 [params]
 dateFormat = "2 January 2006"
 home = "Home"
