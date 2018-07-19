@@ -1,4 +1,4 @@
-baseURL = "http://apd-nz-promosite.s3-website-us-east-1.amazonaws.com/"
+baseURL = "http://tika.asiapacificdigital.co.nz/"
 languageCode = "en-us"
 theme = "airspace-hugo-master"
 title = "Asia Pacific Digital"
