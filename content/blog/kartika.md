@@ -2,7 +2,7 @@
 author = "Kartika"
 date = "2018-07-13T11:42:13+12:00"
 image = "uploads/AINZTimeline.jpg"
-title = "Kartika"
+title = "Kartika Blackman"
 
 +++
 ![](uploads/DSCF3639.jpg)
