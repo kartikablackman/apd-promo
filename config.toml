@@ -5,7 +5,7 @@ title = "Asia Pacific Digital"
 [[menu.footer]]
 name = "Privacy"
 url = "/privacy"
-weight = 1
+weight = 4
 [[menu.footer]]
 name = "About us test"
 url = "/work"
