@@ -3,6 +3,10 @@ languageCode = "en-us"
 theme = "airspace-hugo-master"
 title = "Asia Pacific Digital"
 [[menu.footer]]
+name = "Privacy"
+url = "/privacy"
+weight = 1
+[[menu.footer]]
 name = "About us test"
 url = "/work"
 weight = 1
