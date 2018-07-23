@@ -9,4 +9,5 @@ fields:
   description: Add title here
 pages:
 - content/kartikanewpage.md
+- content/privacy.md
 - content/pc.md
