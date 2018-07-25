@@ -23,22 +23,6 @@ portfolio:
   name: Marie Bowes
   description: Head of Client Services and Strategy
 - category:
-  - Branding
-  url: "#"
-  image: img/staff/simone.jpg
-  name: Simone Iles
-  description: 'CEO
-
-'
-- category:
-  - Graphics
-  url: "#"
-  image: uploads/DSCF4251.jpg
-  name: Meelan Dobbs
-  description: 'Account Director & Performance Media Lead
-
-'
-- category:
   - Design
   url: "#"
   image: uploads/DSCF4283.jpg
@@ -46,8 +30,7 @@ portfolio:
   description: 'Finance Operations Manager
 
 '
-- category:
-  - Video
+- category: []
   url: "#"
   image: uploads/DSCF4300.jpg
   name: Sergey Gurin
@@ -71,6 +54,14 @@ portfolio:
 
 '
 - category:
+  - Branding
+  url: "#"
+  image: img/staff/simone.jpg
+  name: Simone Iles
+  description: 'CEO
+
+'
+- category:
   - Graphics
   url: "#"
   image: uploads/DSCF4304.jpg
@@ -84,6 +75,14 @@ portfolio:
   image: img/staff/tara.jpg
   name: Tara Stead
   description: 'Help Desk Support
+
+'
+- category:
+  - Graphics
+  url: "#"
+  image: uploads/DSCF4251.jpg
+  name: Meelan Dobbs
+  description: 'Account Director & Performance Media Lead
 
 '
 clients:
