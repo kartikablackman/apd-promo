@@ -3,10 +3,10 @@ enable: true
 title: We’ve Been Digital From The Very Beginning
 portfolio:
 - category: []
-  url: ''
-  image: ''
-  name: ''
-  description: ''
+  url: "#"
+  image: uploads/DSCF4235.jpg
+  name: Rajat Sharma
+  description: Account Manager
 - category: []
   url: "#"
   image: uploads/DSCF4276.jpg
